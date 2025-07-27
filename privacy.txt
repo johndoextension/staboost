@@ -1,0 +1,25 @@
+Privacy Policy
+StaBoost is committed to protecting your privacy. This policy explains what information we collect and how we use it.
+
+1. Information We Collect
+We only collect your Instagram™ username, and only for the purpose of identifying and authenticating your session within the extension.
+
+No passwords or private messages are collected.
+
+No tracking or behavioral data is collected.
+
+No data is shared with third parties.
+
+2. Purpose of Data Collection
+The Instagram™ username is used solely to link your saved preferences (such as reply templates or tags) to your identity while using StaBoost. It is stored locally on your device and is not transmitted to any external server.
+
+3. Data Security
+All data is handled locally and securely within your browser. We do not use any remote servers or external databases.
+
+4. Your Control
+You can delete your data at any time by removing the extension or clearing your browser’s local storage.
+
+5. Compliance
+This extension complies with Chrome Web Store policies and respects the privacy of Instagram™ users. It does not automate interactions or violate platform rules.
+
+Instagram™ is a trademark of Meta Platforms, Inc. This extension is not affiliated with or endorsed by Instagram™ or Meta.
